@@ -7,3 +7,4 @@ tes
 ds
 add
 build
+test build
